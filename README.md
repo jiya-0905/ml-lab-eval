@@ -3,7 +3,7 @@ Using 10 different models,I have performed regression analysis on the given fuel
 For result analysis, I have plotted <b>scatter plot</b> between actual and predicted , and other plots like <b>error plot,learning curve , validation curve, and feature importance plot</b> for all of these models.
 I am showing one model in this readme, but i have performed this for 9 other models in the colab notebook.
 
-FOR RIDGE REGRESSION:
+For example, RIDGE REGRESSION:
 
 Scatter plot:
 
