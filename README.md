@@ -2,6 +2,7 @@
 Using 10 different models,I have performed regression analysis on the given fuel_performance dataset.
 For result analysis, I have plotted <b>scatter plot</b> between actual and predicted , and other plots like <b>error plot,learning curve , validation curve, and feature importance plot</b> for all of these models.
 I am showing one model in this readme, but i have performed this for 9 other models in the colab notebook.
+![image](https://github.com/user-attachments/assets/07a297c3-b812-4465-b449-1b23f2e13747)
 
 For example, RIDGE REGRESSION:
 
